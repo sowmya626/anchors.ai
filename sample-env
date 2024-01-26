@@ -1,0 +1,7 @@
+MyPost url = 'https://ap-south-1.aws.data.mongodb-api.com/app/satya123-diawr/endpoint/postdata'
+my get url = 'https://ap-south-1.aws.data.mongodb-api.com/app/satya123-diawr/endpoint/getdata'
+
+step1: open mongodb and create a newapp after this create a new post end-point and function to set schema
+
+
+This Entire Website can be done in React js and Mongo db
